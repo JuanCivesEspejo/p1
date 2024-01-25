@@ -1,0 +1,3 @@
+[submodule "Web-Dev-For-Beginners-Submodule"]
+	path = Web-Dev-For-Beginners-Submodule
+	url = https://github.com/microsoft/Web-Dev-For-Beginners.git
