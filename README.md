@@ -14,5 +14,20 @@ El último comando que se emplea es `git checkout -b feat/Add-Tittle-ReadMe` que
 ## Entorno de desarrollo
 _Toda la sección del entorno de desarrollo se desarrolla en el [fichero](https://github.com/JuanCivesEspejo/p1/blob/main/entorno.pdf) aquí se incluye solo un resumen._
 
-![image](https://github.com/JuanCivesEspejo/p1/assets/123270221/1cbc0230-b3cf-4f65-a752-228bed65a17d)
+## Entorno de desarrollo
+_Toda la sección del entorno de desarrollo se desarrolla en el [fichero](https://github.com/JuanCivesEspejo/p1/blob/main/entorno.pdf) aquí se incluye solo un resumen._
+
+A continuación se muestran imágenes que evidencian la instalación de *Java*:
+![image](https://github.com/JuanCivesEspejo/p1/assets/123270221/86892214-38e7-424a-8fe6-3310ac45bcc0)
+![image](https://github.com/JuanCivesEspejo/p1/assets/123270221/d46d5fc8-b3c6-4484-aafb-4362b1030ad6)
+
+Seguidamente, estas son las imágenes que verifican la instalación de *Maven*:
+![image](https://github.com/JuanCivesEspejo/p1/assets/123270221/7eaced78-edb6-4f8e-9f46-49778cabe458)
+![image](https://github.com/JuanCivesEspejo/p1/assets/123270221/8988b563-d3d0-4c34-9e43-5d33f6c2ade4)
+
+Por último, las imágenes que muestran la instalación de VSCode e IntelliJ con las siguientes:
+![image](https://github.com/JuanCivesEspejo/p1/assets/123270221/1f321550-b1c1-4ff9-9277-72bdf4338511)
+![image](https://github.com/JuanCivesEspejo/p1/assets/123270221/5a8a75fd-248d-44c1-8435-08b03b41439a)
+![image](https://github.com/JuanCivesEspejo/p1/assets/123270221/7984dc1b-2c71-4300-8a16-3cad7db2939b)
+
 
