@@ -13,3 +13,6 @@ El último comando que se emplea es `git checkout -b feat/Add-Tittle-ReadMe` que
 
 ## Entorno de desarrollo
 _Toda la sección del entorno de desarrollo se desarrolla en el [fichero](https://github.com/JuanCivesEspejo/p1/blob/main/entorno.pdf) aquí se incluye solo un resumen._
+
+![image](https://github.com/JuanCivesEspejo/p1/assets/123270221/1cbc0230-b3cf-4f65-a752-228bed65a17d)
+
